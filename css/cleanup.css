@@ -22,3 +22,7 @@ body div #wall .parent {
 body div #wall div{
   display: none;
 }
+
+html body div #wall{
+  display: none;
+}
