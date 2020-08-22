@@ -3,4 +3,14 @@
   display: none;
 }
 
-#
+body div #tag2{
+  display: none;
+}
+
+body div #tag3{
+  display: none;
+}
+
+body div .parent .tag-4{
+  display: none;
+}
