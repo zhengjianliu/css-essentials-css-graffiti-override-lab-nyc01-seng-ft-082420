@@ -15,14 +15,14 @@ div #wall #tag-4 {
   display: none;
 }
 
-body div #wall .parent #tag-5.slick {
+body div #wall .parent {
   display: none;
 }
 
-body div #wall div.parent {
+body div #wall div{
   display: none;
 }
 
-html body div #wall div.parent div > #tag-7.slick {
+html body div #wall{
   display: none;
 }
