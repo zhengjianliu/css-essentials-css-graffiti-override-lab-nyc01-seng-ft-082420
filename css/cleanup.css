@@ -11,6 +11,18 @@ body div #tag3{
   display: none;
 }
 
-body div .parent .tag-4{
+body div .parent #tag-4{
+  display: none;
+}
+
+body div .parent #tag-5{
+  display: none;
+}
+
+body div .parent div #tag-6{
+  display: none;
+}
+
+body div .parent div #tag-7{
   display: none;
 }
